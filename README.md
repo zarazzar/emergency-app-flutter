@@ -1,10 +1,11 @@
 # emergency_app
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter Emergency App application
+built in 2 features that user can call Ambulance / FireFighter for an emergency situation.
 
 A few resources to get you started if this is your first Flutter project:
 
